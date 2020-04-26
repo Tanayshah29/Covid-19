@@ -16,6 +16,7 @@ Analysis:
 4. Analysis based on Cases per country,Deaths per country and daily case count.
 
 TABLEAU PUBLIC:https://public.tableau.com/profile/tanay.shah2601#!/vizhome/Covid-19_15878458024740/Dashboard1 
+
 DATA SOURCE:"https://opendata.ecdc.europa.eu/covid19/casedistribution/csv"
 
 #covid19 #tableau #dataanalysis #datavisualizations 
