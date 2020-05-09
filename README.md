@@ -11,7 +11,7 @@ Analysis:
 
 2. Descriptive analysis on infected, mortality rate & growth rates from last month.
 
-3. Analysis on spread of COVID-19 between [Dec —April ]
+3. Analysis on spread of COVID-19 from December to the current month.
 
 4. Analysis based on Cases per country,Deaths per country and daily case count.
 
