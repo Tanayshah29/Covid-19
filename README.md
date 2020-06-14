@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19 Dashboard
 The global impact of COVID-19
 
 With the rapid spread in the novel corona-virus across countries, the World Health Organisation (WHO)and several countries have published latest results on the impact of COVID-19 over the past few months.
